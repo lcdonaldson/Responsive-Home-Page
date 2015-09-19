@@ -91,7 +91,6 @@ nav {
 
     body {
         padding: 0px;
-        /*display: block;*/
     }
 
     .logo {
@@ -165,6 +164,6 @@ nav {
         margin-left: -10.6em;
         min-width: 54em;
         min-height: 34em;
-        margin-bottom: 0px;
+        margin-bottom: 0em;
     }
 }
