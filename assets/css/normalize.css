@@ -5,8 +5,8 @@
    ========================================================================== */
 
 /**
- * Correct `block` display not defined in IE 8/9.
- */
+ Correct `block` display not defined in IE 8/9.
+ **/
 
 article,
 aside,
@@ -19,13 +19,14 @@ hgroup,
 main,
 nav,
 section,
+
 summary {
     display: block;
 }
 
 /**
- * Correct `inline-block` display not defined in IE 8/9.
- */
+ Correct `inline-block` display not defined in IE 8/9.
+ **/
 
 audio,
 canvas,
@@ -98,8 +99,8 @@ a:focus {
 }
 
 /**
- * Improve readability when focused and also mouse hovered in all browsers.
- */
+ Improve readability when focused and also mouse hovered in all browsers.
+ **/
 
 a:active,
 a:hover {
