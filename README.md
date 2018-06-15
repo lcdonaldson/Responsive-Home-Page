@@ -8,5 +8,4 @@ This is just an example, and in no way represents a project built for rockfish. 
 files for placeholders.
 
 I think overall this would be best used as a quick template for someones personal site, but mainly I had
-fun trying to figure out small hacks around the skeleton framework (which I normally wouldn't do because its
-fantastic)to get the right visual effect.
+fun trying to figure out small hacks around the skeleton framework to get the right visual effect.
