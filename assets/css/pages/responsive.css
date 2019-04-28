@@ -90,7 +90,7 @@ nav {
 @media screen and (min-width: 761px) {
 
     body {
-        padding: 0px;
+        padding: 0;
         /*display: block;*/
     }
 
@@ -116,7 +116,7 @@ nav {
         font-family: helvetica;
         font-weight: 100;
         text-decoration: none;
-        border-bottom: 0px;
+        border-bottom: 0;
         display: inline;
         padding: 1.5em;
         color: rgba(94, 95, 96, 1);
@@ -126,7 +126,7 @@ nav {
         margin-left: -9.1em;
         min-width: 48em;
         min-height: 34em;
-        margin-bottom: 0px;
+        margin-bottom: 0;
     }
 
 }
