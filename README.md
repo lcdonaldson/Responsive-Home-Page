@@ -10,4 +10,4 @@ files for placeholders.
 I think overall this would be best used as a quick template for someones personal site, but mainly I had
 fun trying to figure out small hacks around the skeleton framework to get the right visual effect.
 
-** This was given to me several years ago and I have decided to redo it in CSS Grid. **
+** This was part of a code challenge some years back and I have decided to redo it in CSS Grid. **
