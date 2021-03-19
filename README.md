@@ -7,5 +7,5 @@ I added the skeleton grid for responsiveness and left out the tasks with javascr
 This is just an example, and in no way represents a project built for the rockfish company. I simply used their image
 files for placeholders.
 
-I think overall this would be best used as a quick template for someones personal site, but mainly I had
+I think overall this would be best used as a quick template for a personal site, but mainly I had
 fun trying to figure out small hacks around the skeleton framework to get the right visual effect.
